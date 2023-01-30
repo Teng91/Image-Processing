@@ -1,0 +1,9 @@
+train: ./data/train
+val: ./data/val
+#test: ./data/test
+
+# number of classes
+nc: 8
+
+# class names
+names: [ 'Fly', 'Midge', 'Gnat', 'Mothfly', 'Chilithrips', 'Flowerthrips', 'Whitefly', 'Others']
