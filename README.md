@@ -10,6 +10,6 @@ OpenCV version: 4.1.1
 
 Programming language:
 
-  - python: HW1, HW4, Project
+  - python: HW1, HW4, HW6
 
-  - C++: HW2, HW3, HW5, HW6
+  - C++: HW2, HW3, HW5
