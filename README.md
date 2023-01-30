@@ -8,8 +8,8 @@ QT version: 5.13.2
 
 OpenCV version: 4.1.1
 
-Programming language
+Programming language:
 
-python: HW1, HW4, Project
+  python: HW1, HW4, Project
 
-C++: HW2, HW3, HW5, HW6
+  C++: HW2, HW3, HW5, HW6
