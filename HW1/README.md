@@ -1,4 +1,4 @@
-Programming language: Python
+Programming language: python
 
 Part 1: Histogram of an Image
 
